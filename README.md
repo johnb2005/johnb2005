@@ -17,11 +17,10 @@ I’m currently focused on strengthening my foundations in software engineering 
   - Object-Oriented Programming
   - Problem Solving & Debugging
   - Team Collaboration
-  - Data Structures & Algorithms (foundational)
+  - Data Structures & Algorithms 
 
 - **Tools & Concepts**
   - Git & GitHub
-  - Command Line
   - IDEs (VS Code, IntelliJ)
 
 ---
